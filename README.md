@@ -27,15 +27,18 @@ Toda esta solución se documenta mediante:
 
 ```vbnet
 /
-├── diagrams/
-│   ├── ADR-001.dsl
-│   ├── ADR-002.dsl
-│   ├── ADR-003.dsl
 ├── adr/
 │   ├── ADR-001-multi-core-integration.md
 │   ├── ADR-002-payment-platform-integration.md
 │   ├── ADR-003-open-finance-integration.md
 │   ├── ADR-004-risk-integration.md
+├── diagrams/
+│   ├── ADR-001.dsl
+│   ├── ADR-002.dsl
+│   ├── ADR-003.dsl
+├── docs/
+│   ├── 001-gobernanza-de-APIs-microservicios.md
+│   ├── 002-plan-de-recuperación-ante-desastres.md
 └── README.md
 
 ```
