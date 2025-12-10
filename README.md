@@ -1,4 +1,4 @@
-# Banking Integration Architecture
+Banking Integration Architecture
 
 Arquitectura de referencia para la modernización de plataformas bancarias tradicionales hacia un ecosistema digital basado en microservicios, mensajería, multicore y estándares de integración.
 Incluye diagramas C4 con Structurizr DSL, patrones de integración (EIP), decisiones arquitectónicas (ADRs), modelos de seguridad, y estrategias de despliegue y gobierno de APIs, riesgo y fraude.
